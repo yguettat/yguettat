@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yguettat
+- 👋 Hi, I’m @yguettat a computer engineering student
 - 🌱 I’m currently learning Flutter, JS
 
 <!---
